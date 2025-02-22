@@ -1,53 +1,106 @@
-<div align="center">
-
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=SHIRO+MD+V2+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-<p align="center">
-<a href="https://github.com/Thulara123/SHIRO-MD-V2">
-    <img src=https://github.com/Thulara123/SHIRO-MD/blob/main/asset/SHIRO-MD.jpg"  width="700px">
-</a>
-<hr>
- <p align="center">
-
-  <a href="https://github.com/Thulara123/SHIRO-MD-V2">
-    <img src=https://github.com/Thulara123/SHIRO-MD/blob/main/asset/SHIRO-MD.jpg" alt="Views"/></a>
-  
-  </a>
-  <a href="https://github.com/Thulara123/SHIRO-MD-V2">
-    <img src="https://img.shields.io/github/forks/ASITHA-MD/BOT-NEW?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/Thulara123/SHIRO-MD-V2">
-    <img src="https://img.shields.io/github/stars/ASITHA-MD/BOT-NEW?style=social">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Thulara123/SHIRO-MD-V2">
-    <img src="https://img.shields.io/github/repo-size/ASITHA-MD/BOT-NEW?color=purple&label=Repo%20Size&style=plastic">
-
-  </a>
-  <a href="https://github.com/Thulara123/SHIRO-MD-V2">
-    <img src="https://img.shields.io/github/license/ASITHA-MD/BOT-NEW?color=purple&label=License&style=plastic">
-
-  </a>
-  <a href="https://github.com/Thulara123/SHIRO-MD-V2">
-    <img src="https://img.shields.io/github/languages/top/ASITHA-MD/BOT-NEW?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/Thulara123/SHIRO-MD-V2">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Asitha%20Chathuranga&color=purple&style=plastic">
-
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=SHIRO-MD" alt="Typing SVG" /></a>
   </p>
-</p>
 
-<hr>
+`© NEW REPOSITORY SHIRO-MD💛`
 
-<b>CONTACT OWNER</b>
+---------
 
-[![BOT-NEW](https://github.com/Thulara123/SHIRO-MD/blob/main/asset/SHIRO-MD.jpg)](https://wa.me/94772884694)
-<hr>
+### <br>  ❖ SHIRO-MD ❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY C0De_Zero`** 🔰
 
+----------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=✰SHIRO-MD-WHATSAPP-BOT✰" alt="Typing SVG" /></a>
+ 
+------------
+
+
+
+<br>
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+<br>
+
+--------
+
+
+-----------
+----------
+
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD_V2/count.svg" /><br>SHIRO-MD-V2</div>
+
+------------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+--------------
+
+`❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+
+----------------
+
+![forks](https://img.shields.io/github/forks/Thulara123/SHIRO-MD?label=Forks&style=social)
+
+
+![stars](https://img.shields.io/github/stars/Thulara123/SHIRO-MD?style=social)
+
+
+
+
+`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
+
+---------------
+
+</a>
+
+
+`⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛⚛`
+
+
+
+### <br>   ❖ DEPLOY_WORKFLOWS ❖
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
+
+-----------
+
+***⚠️THANKS FOR USING SILENT-SOBX-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SILENT-SOBX-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY SILENTLOVER432 KING OF WHATSAPP♥️☣️🥂***
